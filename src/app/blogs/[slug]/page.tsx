@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!blog) return { title: 'Not Found' };
 
   return {
-    title: `${blog.title} | ALPHA STUDIO Blog`,
+    title: `${blog.title} | MV Photography Blog`,
     description: blog.description,
   };
 }

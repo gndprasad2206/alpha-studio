@@ -18,15 +18,15 @@ export default function AdminPage() {
     content: "",
     imageUrl: "",
     publishDate: "",
-    author: "Alpha Studio Team"
+    author: "MV Photography Team"
   });
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    if (password === "alpha123") {
+    if (password === "mvphoto123") {
       setIsAuthenticated(true);
     } else {
-      alert("Incorrect password. Try 'alpha123'");
+      alert("Incorrect password. Try 'mvphoto123'");
     }
   };
 
@@ -73,7 +73,7 @@ export default function AdminPage() {
       content: "",
       imageUrl: "",
       publishDate: "",
-      author: "Alpha Studio Team"
+      author: "MV Photography Team"
     });
   };
 
@@ -82,7 +82,7 @@ export default function AdminPage() {
       <div className="min-h-screen bg-[#050505] flex items-center justify-center p-6">
         <div className="w-full max-w-md bg-[#111] p-8 rounded-3xl border border-white/10 shadow-2xl">
           <div className="text-center mb-8">
-            <h1 className="text-2xl font-bold font-heading text-white">ALPHA STUDIO</h1>
+            <h1 className="text-2xl font-bold font-heading text-white">MV PHOTOGRAPHY</h1>
             <p className="text-gray-400 text-sm mt-2">Admin Dashboard Login</p>
           </div>
           
@@ -97,7 +97,7 @@ export default function AdminPage() {
                 className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-[var(--color-brand-gold)]"
                 required
               />
-              <p className="text-xs text-gray-600 mt-2">Hint: alpha123</p>
+              <p className="text-xs text-gray-600 mt-2">Hint: mvphoto123</p>
             </div>
             
             <button 
@@ -118,7 +118,7 @@ export default function AdminPage() {
       {/* Sidebar */}
       <div className="w-full md:w-64 bg-[#111] border-r border-white/10 p-6 flex flex-col">
         <div className="mb-10">
-          <h1 className="text-xl font-bold font-heading text-white">ALPHA STUDIO</h1>
+          <h1 className="text-xl font-bold font-heading text-white">MV PHOTOGRAPHY</h1>
           <span className="text-[var(--color-brand-gold)] text-xs uppercase tracking-widest">Admin Panel</span>
         </div>
         

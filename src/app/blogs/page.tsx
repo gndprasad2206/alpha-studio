@@ -5,8 +5,8 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Photography Blog | ALPHA DIGITAL STUDIO',
-  description: 'Read the latest tips, tricks, and stories from ALPHA DIGITAL STUDIO. Learn about wedding photography, pre-wedding shoots, and more.',
+  title: 'Photography Blog | MV PHOTOGRAPHY',
+  description: 'Read the latest tips, tricks, and stories from MV PHOTOGRAPHY. Learn about wedding photography, pre-wedding shoots, and more.',
 };
 
 export default async function BlogsPage() {

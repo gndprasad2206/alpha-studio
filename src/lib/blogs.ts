@@ -33,7 +33,7 @@ Remember, the most beautiful photos are the ones where you are simply enjoying t
     `,
     imageUrl: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2069&auto=format&fit=crop",
     publishDate: "2026-03-10",
-    author: "Alpha Studio Team",
+    author: "MV Photography Team",
   },
   {
     id: "2",
@@ -77,7 +77,7 @@ Always prioritize safety over a 'cool' shot. We use composite images for any com
     `,
     imageUrl: "https://images.unsplash.com/photo-1519689680058-324335c77eba?q=80&w=2070&auto=format&fit=crop",
     publishDate: "2026-02-15",
-    author: "Alpha Studio Team",
+    author: "MV Photography Team",
   }
 ];
 

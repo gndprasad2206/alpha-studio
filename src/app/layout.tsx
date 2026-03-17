@@ -15,8 +15,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "ALPHA DIGITAL STUDIO | Premium Photography & Cinematography",
-  description: "Experience premium photography with ALPHA DIGITAL STUDIO. We specialize in Weddings, Events, Pre-Weddings, and Cinematic Videography.",
+  title: "MV PHOTOGRAPHY | Premium Photography & Cinematography",
+  description: "Experience premium photography with MV PHOTOGRAPHY. We specialize in Weddings, Events, Pre-Weddings, and Cinematic Videography.",
 };
 
 export default function RootLayout({

@@ -39,7 +39,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6 md:px-12 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-2xl font-bold tracking-tighter text-white font-heading">
-            ALPHA <span className="text-[var(--color-brand-gold)]">STUDIO</span>
+            MV <span className="text-[var(--color-brand-gold)]">PHOTOGRAPHY</span>
           </span>
         </Link>
 

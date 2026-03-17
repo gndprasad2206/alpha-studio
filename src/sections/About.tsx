@@ -37,12 +37,12 @@ export default function About() {
           >
             <SectionHeader
               alignment="left"
-              title="Welcome to Alpha Studio"
-              subtitle="About Us"
+              title="Welcome to MV Photography"
+              subtitle="Our Philosophy"
             />
             
-            <p className="text-gray-300 leading-relaxed text-lg">
-              At ALPHA DIGITAL STUDIO, we don't just take photographs; we breathe life into your memories. Based on the philosophy that every moment is a masterpiece waiting to be captured, our team is dedicated to providing premium visual storytelling.
+            <p className="text-gray-400 text-lg leading-relaxed mb-6">
+              At MV PHOTOGRAPHY, we don't just take photographs; we breathe life into your memories. Based on the philosophy that every moment is a masterpiece waiting to be captured, our team is dedicated to providing premium visual storytelling.
             </p>
             <p className="text-gray-400 leading-relaxed">
               Whether it's the magical vows of a wedding, the vibrant energy of a corporate event, or the innocent smiles of a newborn, we bring our artistic vision and technical mastery to every frame.

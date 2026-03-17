@@ -30,7 +30,7 @@ export default function WhyChooseUs() {
           >
              <SectionHeader
               alignment="left"
-              title="Why Alpha Studio?"
+              title="Why MV Photography?"
               subtitle="Our Expertise"
               className="mb-8"
             />

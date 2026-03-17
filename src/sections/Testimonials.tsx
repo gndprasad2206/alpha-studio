@@ -10,7 +10,7 @@ const testimonials = [
     name: "Sarah & John",
     role: "Wedding Clients",
     image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop",
-    text: "Alpha Studio made our wedding day truly unforgettable. They captured every emotion, every tear, and every laugh beautifully. The final album was beyond our expectations!"
+    text: "MV Photography made our wedding day truly unforgettable. They captured every emotion, every tear, and every laugh beautifully. The final album was beyond our expectations!"
   },
   {
     name: "Emma Davis",

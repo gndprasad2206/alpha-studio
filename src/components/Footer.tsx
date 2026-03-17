@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="md:col-span-1">
             <Link href="/" className="inline-block mb-6">
               <span className="text-2xl font-bold tracking-tighter text-white font-heading">
-                ALPHA <span className="text-[var(--color-brand-gold)]">STUDIO</span>
+                MV <span className="text-[var(--color-brand-gold)]">PHOTOGRAPHY</span>
               </span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-6">
@@ -55,15 +55,15 @@ export default function Footer() {
             <ul className="flex flex-col gap-4">
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-[var(--color-brand-gold)] mt-0.5 shrink-0" />
-                <span className="text-gray-400 text-sm">123 Studio Street, Creative District, NY 10001</span>
+                <span className="text-gray-400 text-sm">Vijayawada, Andhra Pradesh, India</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-[var(--color-brand-gold)] shrink-0" />
-                <span className="text-gray-400 text-sm">+1 (234) 567-8900</span>
+                <span className="text-gray-400 text-sm">9966246136</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-[var(--color-brand-gold)] shrink-0" />
-                <span className="text-gray-400 text-sm">hello@alphastudio.com</span>
+                <span className="text-gray-400 text-sm">hello@mvphotography.com</span>
               </li>
             </ul>
           </div>
@@ -71,7 +71,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-gray-500">
-            &copy; {new Date().getFullYear()} ALPHA DIGITAL STUDIO. All rights reserved.
+            &copy; {new Date().getFullYear()} MV PHOTOGRAPHY. All rights reserved.
           </p>
           <div className="flex gap-6">
             <Link href="#" className="text-sm text-gray-500 hover:text-white transition-colors">Privacy Policy</Link>
