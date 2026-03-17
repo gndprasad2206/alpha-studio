@@ -71,7 +71,7 @@ export default function About() {
           >
             <div className="relative z-10 aspect-[4/5] w-full max-w-md ml-auto rounded-3xl overflow-hidden glass-morphism">
               <img
-                src="https://images.unsplash.com/photo-1554048663-956eb4afce75?q=80&w=1969&auto=format&fit=crop"
+                src="/images/img_5.jpg"
                 alt="Photography Equipment"
                 className="w-full h-full object-cover p-2 rounded-3xl"
               />

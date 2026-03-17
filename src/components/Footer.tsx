@@ -55,11 +55,11 @@ export default function Footer() {
             <ul className="flex flex-col gap-4">
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-[var(--color-brand-gold)] mt-0.5 shrink-0" />
-                <span className="text-gray-400 text-sm">Vijayawada, Andhra Pradesh, India</span>
+                <span className="text-gray-400 text-sm">Main road, Gundlupete, Padagur, Karnataka 571123</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-[var(--color-brand-gold)] shrink-0" />
-                <span className="text-gray-400 text-sm">9966246136</span>
+                <span className="text-gray-400 text-sm">96324 91594</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-[var(--color-brand-gold)] shrink-0" />

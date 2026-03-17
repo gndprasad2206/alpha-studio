@@ -9,19 +9,19 @@ const testimonials = [
   {
     name: "Sarah & John",
     role: "Wedding Clients",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop",
+    image: "/images/img_19.jpg",
     text: "MV Photography made our wedding day truly unforgettable. They captured every emotion, every tear, and every laugh beautifully. The final album was beyond our expectations!"
   },
   {
     name: "Emma Davis",
     role: "Mother (Baby Shoot)",
-    image: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1976&auto=format&fit=crop",
+    image: "/images/img_20.jpg",
     text: "The team was so patient and gentle with our newborn. The studio environment was safe and warm, and the resulting pictures are something we will cherish forever."
   },
   {
     name: "Michael Chen",
     role: "Corporate Director",
-    image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974&auto=format&fit=crop",
+    image: "/images/img_21.jpg",
     text: "Highly professional service for our annual corporate gala. They managed to cover a 500+ guest event flawlessly, delivering premium quality highlights within 48 hours."
   }
 ];

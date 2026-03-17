@@ -5,12 +5,12 @@ import { Instagram } from "lucide-react";
 import SectionHeader from "@/components/SectionHeader";
 
 const feedImages = [
-  "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2069&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1542042161784-26ab9e041e89?q=80&w=2070&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1533130061792-64b345e4a833?q=80&w=2070&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1505909182942-e2f09aee3e89?q=80&w=2072&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1518331647614-7a1f04cd34ce?q=80&w=2069&auto=format&fit=crop"
+  "/images/img_2.jpg",
+  "/images/img_7.jpg",
+  "/images/img_3.jpg",
+  "/images/img_6.jpg",
+  "/images/img_8.jpg",
+  "/images/img_9.jpg"
 ];
 
 export default function InstagramFeed() {

@@ -212,7 +212,7 @@ export default function AdminPage() {
                       required
                       value={currentBlog.imageUrl}
                       onChange={(e) => setCurrentBlog({...currentBlog, imageUrl: e.target.value})}
-                      placeholder="https://images.unsplash.com/..."
+                      placeholder="/images/img_1.jpg"
                       className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white focus:border-[var(--color-brand-gold)] focus:outline-none"
                     />
                   </div>

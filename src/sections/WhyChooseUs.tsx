@@ -39,7 +39,7 @@ export default function WhyChooseUs() {
             </p>
 
             <img 
-              src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=1964&auto=format&fit=crop"
+              src="/images/img_22.jpg"
               alt="Photography Setup"
               className="w-full h-64 object-cover rounded-3xl mt-8 grayscale hover:grayscale-0 transition-all duration-700 border border-white/5"
             />

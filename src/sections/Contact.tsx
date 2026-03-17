@@ -26,7 +26,7 @@ export default function Contact() {
 
   const handleWhatsApp = () => {
     const text = `Hi, I'm ${formData.name}. I'd like to ask about a ${formData.eventType} event on ${formData.eventDate}. ${formData.message}`;
-    const url = `https://wa.me/919966246136?text=${encodeURIComponent(text)}`;
+    const url = `https://wa.me/919632491594?text=${encodeURIComponent(text)}`;
     window.open(url, "_blank");
   };
 
@@ -55,7 +55,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold font-heading mb-1">Studio Location</h4>
-                  <p className="text-gray-400 text-sm">Vijayawada, Andhra Pradesh, India</p>
+                  <p className="text-gray-400 text-sm">Main road, Gundlupete, Padagur, Karnataka 571123</p>
                 </div>
               </div>
 
@@ -75,7 +75,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-white font-semibold font-heading mb-1">Phone / WhatsApp</h4>
-                  <p className="text-gray-400 text-sm">9966246136</p>
+                  <p className="text-gray-400 text-sm">96324 91594</p>
                 </div>
               </div>
 
@@ -93,13 +93,13 @@ export default function Contact() {
             {/* Google Maps Embed */}
             <div className="w-full h-64 rounded-2xl overflow-hidden border border-white/10 transition-all duration-500">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122416.79093751722!2d80.54019231862553!3d16.510008544062483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35eff9482d944b%3A0x939b7e84ab4f0260!2sVijayawada%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1709664656485!5m2!1sen!2sin" 
+                src="https://maps.google.com/maps?q=Main%20road,%20Gundlupete,%20Padagur,%20Karnataka%20571123&t=&z=13&ie=UTF8&iwloc=&output=embed" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
                 allowFullScreen={true} 
                 loading="lazy" 
-                title="Studio Location Vijayawada"
+                title="Studio Location"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="w-full h-full bg-slate-900"
               />
@@ -143,7 +143,7 @@ export default function Contact() {
                     value={formData.phone}
                     onChange={handleChange}
                     className="w-full bg-black/50 border border-white/10 rounded-xl px-4 py-3 text-white placeholder-gray-600 focus:outline-none focus:border-[var(--color-brand-gold)] transition-colors"
-                    placeholder="9966246136"
+                    placeholder="96324 91594"
                   />
                 </div>
               </div>

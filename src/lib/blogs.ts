@@ -31,7 +31,7 @@ If possible, schedule a 30-minute session just for the two of you during "Golden
 
 Remember, the most beautiful photos are the ones where you are simply enjoying the moment together.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?q=80&w=2069&auto=format&fit=crop",
+    imageUrl: "/images/img_2.jpg",
     publishDate: "2026-03-10",
     author: "MV Photography Team",
   },
@@ -53,7 +53,7 @@ Your wedding day is about your vows, but your pre-wedding shoot can be about you
 
 Don't skip it—use it as a date day to get dressed up, have fun, and get some incredible photos without the stress of the wedding timeline.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1542042161784-26ab9e041e89?q=80&w=2070&auto=format&fit=crop",
+    imageUrl: "/images/img_3.jpg",
     publishDate: "2026-02-28",
     author: "Alex Camera",
   },
@@ -75,7 +75,7 @@ For older babies, doing a lifestyle shoot in your own home often yields the most
 
 Always prioritize safety over a 'cool' shot. We use composite images for any complex poses to ensure the baby is entirely supported at all times.
     `,
-    imageUrl: "https://images.unsplash.com/photo-1519689680058-324335c77eba?q=80&w=2070&auto=format&fit=crop",
+    imageUrl: "/images/img_4.jpg",
     publishDate: "2026-02-15",
     author: "MV Photography Team",
   }

@@ -9,37 +9,37 @@ const services = [
     icon: <Heart className="w-8 h-8 text-[var(--color-brand-purple)]" />,
     title: "Wedding Photography",
     description: "Capturing the magic and emotion of your special day with elegant, timeless style.",
-    image: "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=2070&auto=format&fit=crop"
+    image: "/images/img_15.jpg"
   },
   {
     icon: <Sparkles className="w-8 h-8 text-[var(--color-brand-gold)]" />,
     title: "Pre-Wedding Shoots",
     description: "Creative and romantic conceptual shoots to tell your unique love story.",
-    image: "https://images.unsplash.com/photo-1542042161784-26ab9e041e89?q=80&w=2070&auto=format&fit=crop"
+    image: "/images/img_3.jpg"
   },
   {
     icon: <Gift className="w-8 h-8 text-[#FF3366]" />,
     title: "Birthday Events",
     description: "Vibrant and candid shots to remember your joyous celebrations.",
-    image: "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?q=80&w=2070&auto=format&fit=crop"
+    image: "/images/img_16.jpg"
   },
   {
     icon: <Baby className="w-8 h-8 text-[var(--color-brand-blue)]" />,
     title: "Baby Shoots",
     description: "Soft, adorable, and safe photography sessions for your little ones.",
-    image: "https://images.unsplash.com/photo-1518331647614-7a1f04cd34ce?q=80&w=2069&auto=format&fit=crop"
+    image: "/images/img_9.jpg"
   },
   {
     icon: <Briefcase className="w-8 h-8 text-emerald-400" />,
     title: "Corporate Events",
     description: "Professional coverage for seminars, conferences, and brand launches.",
-    image: "https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=2069&auto=format&fit=crop"
+    image: "/images/img_17.jpg"
   },
   {
     icon: <Video className="w-8 h-8 text-rose-400" />,
     title: "Cinematic Videography",
     description: "High-definition storytelling through stunning cinematic video production.",
-    image: "https://images.unsplash.com/photo-1601506521937-0121a7fc2a6b?q=80&w=2071&auto=format&fit=crop"
+    image: "/images/img_18.jpg"
   }
 ];
 

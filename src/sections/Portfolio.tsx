@@ -8,12 +8,12 @@ import { X } from "lucide-react";
 const categories = ["All", "Weddings", "Pre-Wedding", "Events", "Baby Shoots"];
 
 const portfolioImages = [
-  { id: 1, category: "Weddings", url: "https://images.unsplash.com/photo-1519225421980-715cb0215aed?q=80&w=2070&auto=format&fit=crop", style: "row-span-2 col-span-1" },
-  { id: 2, category: "Pre-Wedding", url: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?q=80&w=2070&auto=format&fit=crop", style: "row-span-1 col-span-1" },
-  { id: 3, category: "Events", url: "https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?q=80&w=2070&auto=format&fit=crop", style: "row-span-1 col-span-1" },
-  { id: 4, category: "Weddings", url: "https://images.unsplash.com/photo-1606800052052-a08af7148866?q=80&w=2070&auto=format&fit=crop", style: "row-span-1 col-span-2" },
-  { id: 5, category: "Baby Shoots", url: "https://images.unsplash.com/photo-1519689680058-324335c77eba?q=80&w=2070&auto=format&fit=crop", style: "row-span-2 col-span-1" },
-  { id: 6, category: "Events", url: "https://images.unsplash.com/photo-1602631592834-0bc117cb83e4?q=80&w=2070&auto=format&fit=crop", style: "row-span-1 col-span-1" },
+  { id: 1, category: "Weddings", url: "/images/img_10.jpg", style: "row-span-2 col-span-1" },
+  { id: 2, category: "Pre-Wedding", url: "/images/img_11.jpg", style: "row-span-1 col-span-1" },
+  { id: 3, category: "Events", url: "/images/img_12.jpg", style: "row-span-1 col-span-1" },
+  { id: 4, category: "Weddings", url: "/images/img_13.jpg", style: "row-span-1 col-span-2" },
+  { id: 5, category: "Baby Shoots", url: "/images/img_4.jpg", style: "row-span-2 col-span-1" },
+  { id: 6, category: "Events", url: "/images/img_14.jpg", style: "row-span-1 col-span-1" },
 ];
 
 export default function Portfolio() {
